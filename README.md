@@ -8,7 +8,7 @@ code challenge 1
 
 - `nigz`: Solution to problem 1.
 - `speed dik`: Solution to problem 2.
-- `net salary`: Solution to problem 3.
+- `zznetsalary`: Solution to problem 3.
 
 
 ## How to Use
